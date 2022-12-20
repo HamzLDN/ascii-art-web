@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/HamzLDN/ascii-art-web/main/image.PNG)
 This is the full release v1.0 of ascii-art-web.
 To use this you must open a webserver on any port. (Default is PORT 8000)
 Using this you can host a webserver online and generate any type of ascii art text online.
