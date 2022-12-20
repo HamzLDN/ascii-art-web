@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Ascii art</title>
+        <link href="/static/style.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <center><h1>Ascii art generator</h1></center>
+        <form action="/ascii-art" method="post">
+            <div class="box">
+                <input type="radio" id="fonts" name="fonts" value="standard" required>
+                    <label for="html">Standard</label><br>
+                <input type="radio" id="fonts" name="fonts" value="shadow">
+                    <label for="css">Shadow</label><br>
+                <input type="radio" id="fonts" name="fonts" value="thinkertoy">
+                    <label for="javascript">Thinkertoy</label></br>
+                <button input type="submit">Submit!</button>
+                    <div class="textbox">
+                        <textarea id="freeform" name="ascii-data" maxlength="100" required></textarea>
+                    </div>
+            </div>
+        </form>
+        <br>
+            <marquee behavior="scroll" direction="right"><h3>Created by Hamza. Enjoy the ascii art generator</h3></marquee>
+        </br>
+        <center><pre>{{.First}}</pre></textarea></center>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+body {
+  background-image: linear-gradient(to right, pink , lightgreen);
+}
+.box {
+  background-color: #89c7fa;
+  border-color: black;
+  border-style: dashed;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  position: center;
+  color: #e1f2b0;
+  padding: 1em;
+  border-radius: 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.4;
+  width: 500px;
+  height: 100px;
+  opacity: 0.7;
+}
+textarea {
+    background-color: #e1f2b0;
+    border: black;
+    border-radius: 10px;
+    position: relative;
+    bottom: 90px;
+    margin-left: 35%;
+    display: block;
+    width: 300px;
+    height: 80px;
+}
+pre {
+    background-color: lightblue;
+    border-color: black;
+    border-style: dashed;
+    overflow: auto;
+    padding: 10px;
+    margin: 30px;
+    height: 25vh;
+    width: 80%;
+    opacity: 0.7;
+}
+button {
+    position: relative;
+    background-image: linear-gradient(to right, grey , blue);
+    border: none;
+    color: white;
+    width: 80px;
+    height: 30px;
+}
