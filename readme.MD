@@ -16,7 +16,7 @@ Once you have installed golang you are ready to go!
 
 The following steps requires you to install the project on to your directory. Please follow the steps below.
 ```
-git clone https://learn.01founders.co/git/hchennou/ascii-art-web.git
+git clone https://github.com/HamzLDN/ascii-art-web.git
 cd ascii-art-web
 go run main.go
 ```
