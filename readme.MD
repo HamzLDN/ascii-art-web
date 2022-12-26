@@ -1,4 +1,4 @@
-### Sorry for the messy code
+### My ascii art website!
 ![alt text](https://raw.githubusercontent.com/HamzLDN/ascii-art-web/main/image.PNG)
 
 You can visit the site at http://51.195.187.145/ascii-art
