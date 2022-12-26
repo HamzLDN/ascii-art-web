@@ -1,3 +1,4 @@
+### Sorry for the messy code
 ![alt text](https://raw.githubusercontent.com/HamzLDN/ascii-art-web/main/image.PNG)
 
 You can visit the site at http://51.195.187.145/ascii-art
@@ -24,6 +25,3 @@ go run main.go
 Once you follow these steps the code should propely work!
 Please if you encouter any issues or any bugs please let us know ASAP so we can fix it.
 FULL VERSION: v1.0
-
-Made by:
-Hamza Chennou
