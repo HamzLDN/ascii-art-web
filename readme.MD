@@ -1,9 +1,7 @@
 ### My ascii art website!
 ![alt text](https://raw.githubusercontent.com/HamzLDN/ascii-art-web/main/image.PNG)
 
-You can visit the site at http://51.195.187.145/ascii-art
-
-This is the full release v1.0 of ascii-art-web.
+# This is the full release v1.0 of ascii-art-web.
 To use this you must open a webserver on any port. (Default is PORT 80)
 Using this you can host a webserver online and generate any type of ascii art text online.
 
