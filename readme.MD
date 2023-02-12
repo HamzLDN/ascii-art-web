@@ -20,6 +20,6 @@ cd ascii-art-web
 go run main.go
 ```
 
-Once you follow these steps the code should propely work!
+Once you have followed these steps the code should propely work!
 Please if you encouter any issues or any bugs please let us know ASAP so we can fix it.
 FULL VERSION: v1.0
