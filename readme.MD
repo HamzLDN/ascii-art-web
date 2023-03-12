@@ -7,7 +7,7 @@ Using this you can host a webserver online and generate any type of ascii art te
 
 You can visit the site at `http://139.144.158.93:443/`
 How to run our code?
-To run our code is pretty easy. You would firstly need golang installed so to do that please look
+-To run our code is pretty easy. You would firstly need golang installed so to do that please look
 at the following documentations down below.
 
 How to install golang guide: https://go.dev/doc/install
