@@ -155,8 +155,8 @@ func main() {
 	http.Handle("/static/",
 		http.StripPrefix("/static/",
 			http.FileServer(http.Dir("static"))))
-	http.ListenAndServe(":80", nil)
 	fmt.Println("HTTP SERVER RUNNING AT: http://localhost:80")
+	http.ListenAndServe(":80", nil)
 }
 
 func index(w http.ResponseWriter, r *http.Request) {
